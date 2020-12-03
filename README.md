@@ -1,1 +1,9 @@
 # Anomaly-detection-in-large-scale-networks
+Introduction:
+We live in world full of networks. Many are physically connected ones like the electricity providing network in any city and rest are connected through wireless modes like the Wi-Fi networks in any place.
+These networks are often monitored by various devices like smart meters and sensors which play very pivotal role in detection of the health status of the network as a whole. In these networks many different types of anomalies, abnormal behaviour, and disturbances can occur due to various causes, like external factors, failures in network elements, unusual or malicious behaviour, communication issues, and many previously unknown causes. Monitoring and predicting these anomalies in network systems has grown to be very popular topic for research with the improvements and increasing role of sensor data for decision making and data analytics.
+The data collected in real time from these lays the foundation of systems which can analyse and predict the health status of the network in due course of time thus making it possible to deliver perfect service to the customers leading to better life. 
+We look forward to making such system which can not only give insights about the network status but also provide the original location of the anomaly in case it occurs in the network in real time. We also have given intuition about improving our model efficiency with respect to the size of network and the kind of model preferred for better accuracy as the computational complexity increases by large amounts with respect to number of nodes in the network.
+
+Objective:
+The objective is to create a model to detect anomalies in large networks like the electricity supply networks in a local city. The model makes use of various algorithms of machine learning for training and predicting the source of anomaly in a network.
